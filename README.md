@@ -16,9 +16,9 @@ Instrucciones FrontEnd
 Abrir su editor como VSCode.
 En el terminal del editor ubicarnos en la dirección donde generaremos en proyecto.
 En el terminal del editor(VSCode) ejecutar ng new nombreProyecto para crear el proyecto.
-Copiar el contenido de ../BackEnd/src a la carpeta ../SuProyecto/src.
+Copiar el contenido de ../BackEnd/orders/src a la carpeta ../SuProyecto/src.
 Abrir la carpeta creada con el editor.
-En el erminal del editor ejecutamos ng ser -o.
+En el terminal del editor ejecutamos ng ser -o.
 
 
 Fin.
