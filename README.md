@@ -2,7 +2,7 @@
 
 Prueba Técnica MArco Játiva
 
-Descomprima archivo aplicacion.rar.
+Descomprima archivo pruebaMarcoJativa.rar.
 Encontrará las carpetas BackEnd y FrontEnd.
 
 Instrucciones BackEnd
