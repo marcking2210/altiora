@@ -1,6 +1,6 @@
 # Altiora
 
-Prueba Técnica MArco Játiva
+Prueba Técnica Marco Játiva
 
 Descomprima archivo pruebaMarcoJativa.rar.
 Encontrará las carpetas BackEnd y FrontEnd.
